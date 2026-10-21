@@ -13,7 +13,6 @@
   <ItemGroup>
     <PackageReference Include="NUnit" Version="5.0.0" />
 
-    <ProjectReference Include="..\..\src\AutoFixture\AutoFixture.csproj" />
     <ProjectReference Include="..\..\src\AutoFixture.NUnit4\AutoFixture.NUnit4.csproj" />
     <ProjectReference Include="..\TestTypeFoundation\TestTypeFoundation.csproj" />
   </ItemGroup>

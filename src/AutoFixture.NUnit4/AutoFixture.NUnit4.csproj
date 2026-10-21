@@ -16,6 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AutoFixture\AutoFixture.csproj" />
+    <PackageReference Include="AutoFixture" Version="5.0.0-rc.1" />
   </ItemGroup>
 </Project>
